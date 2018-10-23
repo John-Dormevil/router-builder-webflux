@@ -1,4 +1,4 @@
-package flocondria.com.routerbuilder.test;
+package flocondria.com.routerbuilder.demo;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.BodyInserters;

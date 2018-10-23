@@ -1,4 +1,4 @@
-package flocondria.com.routerbuilder.test;
+package flocondria.com.routerbuilder.demo;
 
 import flocondria.com.routerbuilder.factory.HttpMethod;
 import flocondria.com.routerbuilder.factory.RouterBuilder;
